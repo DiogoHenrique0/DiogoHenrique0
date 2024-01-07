@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Diogo Henrique Dos Santos Barbosa 🖐️
   <div> 
-  <a href="https://www.instagram.com/diogo_code/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="[https://www.instagram.com/diogo_code/](https://www.instagram.com/dii_barbosa/)" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:diogohenriques.barbosa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/diogo-henrique-b3806a236/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://github.com/DiogoHenrique0" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> 
@@ -9,8 +9,8 @@
   
  ## Sobre Mim :
    - *Me chamo Diogo Henrique Dos Santos Barbosa*
-   - *Tenho 19 anos* 
-   - *Sou de Sorocaba,SP*
+   - *Tenho 20 anos* 
+   - *Moro em Portugal*
    - *Curso Análise e Desenvolvimento de Sistema na Universidade Facens*
    - Apaixonado por tecnologia, e principalmente em aprender!
   
