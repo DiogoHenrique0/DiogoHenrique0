@@ -9,7 +9,7 @@
   
  ## Sobre Mim :
    - *Me chamo Diogo Henrique Dos Santos Barbosa*
-   - *Tenho 20 anos* 
+   - *Tenho 21 anos* 
    - *Moro em Portugal*
    - *Curso Análise e Desenvolvimento de Sistema na Universidade Facens*
    - Apaixonado por tecnologia, e principalmente em aprender!
